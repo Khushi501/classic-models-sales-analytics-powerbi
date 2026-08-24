@@ -85,3 +85,8 @@ The objective of this project is to practice and demonstrate skills in:
 ## Project Type
 
 **Data Analytics | Business Intelligence | Power BI**
+
+
+## Author
+
+Khushi Lakhotia
