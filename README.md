@@ -41,6 +41,19 @@ The Power BI report includes:
 ![Sales Analysis](sales_analysis.png)
 
 
+### Mobile Dashboard
+
+The dashboard also includes a mobile-optimized layout for convenient analysis on smaller screens.
+
+![Mobile Dashboard Overview](screenshots/mobile-view/mobile_dashboard_overview.png)
+
+![Mobile Dashboard Filters](screenshots/mobile-view/mobile_dashboard_filters.png)
+
+![Mobile Dashboard Sales & Map](screenshots/mobile-view/mobile_dashboard_sales_map.png)
+
+![Mobile Dashboard Products](screenshots/mobile-view/mobile_dashboard_products.png)
+
+
 ## Project Files
 
 | File                                  | Description                                       |
